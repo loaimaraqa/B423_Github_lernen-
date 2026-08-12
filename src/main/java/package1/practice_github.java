@@ -7,5 +7,10 @@ public class practice_github {
 
         // this is our first comment in this file
         // this text is on Loai Branch
+
+        boolean isRetired = True;
+        //Loai branch
+
     }
+
 }
