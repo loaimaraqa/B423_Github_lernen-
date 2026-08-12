@@ -7,5 +7,9 @@ public class practice_github {
 
         // this is our first comment in this file
         // this text is on Loai Branch
+
+        int ageUser = 30;
+        //Main Branch
+
     }
 }
